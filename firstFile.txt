@@ -14,5 +14,6 @@ rrr
 ssssss
 ttttttttttttt
 master branch - added first line
-
+testRebaseBranch-added first line
+testRebaseBranch-added second line
 master branch - added second line
